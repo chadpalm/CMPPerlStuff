@@ -1,0 +1,4 @@
+Name:chad
+
+Age:32
+ Email:seqwe
